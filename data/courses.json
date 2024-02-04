@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "HTML5",
+    "picture": "https://www.webdevelopmenthelp.net/wp-content/uploads/2015/09/HTML55.png"
+  },
+  {
+    "id": 2,
+    "name": "CSS3",
+    "picture": "https://colorlib.com/wp/wp-content/uploads/sites/2/free-css3-frameworks.png"
+  },
+  {
+    "id": 3,
+    "name": "BOOTSTRAP",
+    "picture": "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
+  },
+  {
+    "id": 4,
+    "name": "TAILWIND CSS",
+    "picture": "https://picperf.io/https://laravelnews.s3.amazonaws.com/images/tailwindcss-1633184775.jpg"
+  },
+  {
+    "id": 5,
+    "name": "GITHUB",
+    "picture": "https://bitperfect.at/assets/blog-images/Headerbild-Was-ist-GitHub-v2.png"
+  },
+  {
+    "id": 6,
+    "name": "JAVASCRIPT",
+    "picture": "https://www.keycdn.com/img/support/javascript.png"
+  },
+  {
+    "id": 7,
+    "name": "REACT JS",
+    "picture": "https://miro.medium.com/v2/resize:fit:2000/1*y6C4nSvy2Woe0m7bWEn4BA.png"
+  },
+  {
+    "id": 8,
+    "name": "FIREBASE",
+    "picture": "https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo-thumbnail.png"
+  },
+  {
+    "id": 9,
+    "name": "NODE JS",
+    "picture": "https://miro.medium.com/v2/resize:fit:1400/1*9oOlDJKiLq1KhGoOivv51A.png"
+  },
+  {
+    "id": 10,
+    "name": "EXPRESS JS",
+    "picture": "https://miro.medium.com/v2/resize:fit:1400/1*i2fRBk3GsYLeUk_Rh7AzHw.png"
+  },
+  {
+    "id": 11,
+    "name": "MONGODB",
+    "picture": "https://i.pcmag.com/imagery/reviews/02Q6yxveinggAu3PomearaV-7.fit_scale.size_760x427.v1569481734.jpg"
+  }
+]
